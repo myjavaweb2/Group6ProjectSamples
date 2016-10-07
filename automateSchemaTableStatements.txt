@@ -1,0 +1,22 @@
+CREATE DATABASE `automate` /*!40100 DEFAULT CHARACTER SET utf8 */;
+
+
+CREATE TABLE `users` (
+  `user_id` int(11) NOT NULL AUTO_INCREMENT,
+  `first_name` varchar(45) NOT NULL,
+  `last_name` varchar(45) NOT NULL,
+  `gender` varchar(45) NOT NULL,
+  `cell_phone` varchar(45) NOT NULL,
+  `email` varchar(45) NOT NULL,
+  `home_address` varchar(85) NOT NULL,
+  `home_lat` varchar(45) NOT NULL,
+  `home_lng` varchar(45) NOT NULL,
+  `work_address` varchar(85) DEFAULT NULL,
+  `work_lat` varchar(45) DEFAULT NULL,
+  `work_lng` varchar(45) DEFAULT NULL,
+  `user_name` varchar(45) NOT NULL,
+  `password` varchar(45) NOT NULL,
+  PRIMARY KEY (`user_id`),
+  UNIQUE KEY `user_id_UNIQUE` (`user_id`),
+  UNIQUE KEY `user_name_UNIQUE` (`user_name`)
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;

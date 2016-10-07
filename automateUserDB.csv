@@ -1,0 +1,7 @@
+"user_id";"first_name";"last_name";"gender";"cell_phone";"email";"home_address";"home_lat";"home_lng";"work_address";"work_lat";"work_lng";"user_name";"password"
+1;"Jane";"Doe";"Female";"301-456-9087";"jane.doe@someemail.com";"10755 Autumn Splendor Dr, Columbia, MD 21044";"39.197826";"-76.881053";"6401 Security Blvd, Baltimore, MD 21235";"39.106723";"-76.730694";"janedoe";"passW0rd"
+2;"Daniel";"Smith";"Male";"301-654-1234";"dsmith@worldemail.com";"8214 Morris Pl, Jessup, MD 20794";"39.163728";"-76.795160";"6401 Security Blvd, Baltimore, MD 21235";"39.106723";"-76.730694";"dsmith";"mypsW0rd"
+3;"Tracy";"Samuelson";"Male";"301-505-6285";"samuelsont@googlemail.com";"146 Chesapeake Mobile Ct, Hanover, MD 21076";"39.148464";"-76.716969";"6401 Security Blvd, Baltimmore, MD 21235";"39.106723";"-76.730694";"tsamuelson2";"tpsWord5"
+4;"Vanessa";"Morris";"Female";"301-555-5689";"vmorris@googlemail.com";"7537 Maiden Head Dr, Hanover, MD 21076";"39.159360";"-76.738186";"6401 Security Blvd, Baltimmore, MD 21235";"39.106723";"-76.730694";"vanessam";"myVmori5"
+5;"Keisha";"Peterson";"Female";"301-123-4569";"keisha.morris@newemail.com";"3524 Spring Rd, Laurel, MD 20724";"39.106723";"-76.815758";"6401 Security Blvd, Baltimmore, MD 21235";"39.106723";"-76.730694";"kpeterson";"kppsW0rd"
+6;"Donald";"Peter";"Male";"240-895-4589";"dpeter@world.com";"8073 Brookstone Ct, Severn, MD 21144";"39.125183";"-76.702696";"";"";"";"donald2p";"PassD0np"
